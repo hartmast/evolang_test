@@ -101,3 +101,17 @@ Smith, Andrew D. M., Kenny Smith & Ramon Ferrer i Cancho (eds.). 2008. The evolu
 Cangelosi, Angelo, Andrew D. M. Smith & Kenny Smith (eds.). 2006. The evolution of language: proceedings of the 6th international conference (EVOLANG6), Rome, Italy, 12-15 April 2006. Singapore: World Scientific.
 
 <img alt="Cover of the Evolang 2012 proceedings" src="assets/img/evolang6.png" width="300px">
+
+## Proceedings 1996-2004
+
+- <strong>Evolang 5, Leipzig, 2004</strong>: no proceedings
+
+- <strong>Evolang 4, Harvard, 2002</strong>: Tallerman, Maggie (ed.). 2005. Language Origins: Perspectives on Evolution. Oxford: Oxford University Press.
+
+- <strong>Evolang 3, Paris, 2000</strong>: Wray, Alison. 2002. The transition to language. Oxford: Oxford University Press.
+
+- <strong>Evolang 2, London, 1998</strong>: Knight, Chris, Michael Studdert-Kennedy & James R. Hurford (eds.). 2000. The Evolutionary Emergence of Language: Social Function and the Origins of Linguistic Form. Cambridge: Cambridge University Press.
+
+- <strong>Evolang 1, London, 1996</strong>: Hurford, James R., Michael Studdert-Kennedy & Chris Knight (eds.). 1998. Approaches to the Evolution of Language. Cambridge: Cambridge University Press.
+
+
