@@ -41,7 +41,7 @@ The Evolution of Language conferences (a.k.a. Evolang) is a series of biennial c
 
 **Evolang 12, 2018:** Was hosted in Torun, Poland with Sławomir Wacewicz, Przemysław Żywiczyński, and Roland Mühlenbernd as chief organizers. More information [here](https://web.archive.org/web/20220526024221/https://evolang.cles.umk.pl/). 
 
-**Evolang 13, 2020:** Was going to be hosted in Brussells with Bart de Boer as chair of the local organizing committee. Sadly it was cancelled due to the pandemic. See [here](https://web.archive.org/web/20220302152940/https://brussels.evolang.org/) for more information. 
+**Evolang 13, 2020:** Was going to be hosted in Brussels with Bart de Boer as chair of the local organizing committee. Sadly it was cancelled due to the Covid-19 pandemic. See [here](https://web.archive.org/web/20220302152940/https://brussels.evolang.org/) for more information. 
 
 **Evolang 14, 2022:** Was organized together with Protolang and Evolinguistics, as the Joint Conference on Language Evolution (JCoLE) in Kanazawa, Japan. Organization was headed by Kazuo Okanoya and Rie Asano. <https://sites.google.com/view/joint-conf-language-evolution/home>
 
