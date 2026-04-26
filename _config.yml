@@ -1,0 +1,92 @@
+title: Evolution of Language International Conferences
+logo:
+  path: /assets/img/logo.png
+  alt: EVOLANG
+default_header_img: /assets/img/headers/birds.jpg
+footer: Because nothing in linguistics makes sense except in the light of evolution.
+
+primary_links:
+  - text: Conference Details
+    title: Evolang Home
+    url: /
+  - text: History
+    url: /history
+  - text: Organization
+    url: /organization
+  - text: Proceedings
+    url: /proceedings
+  - text: Nijmegen 2028
+    title: Details of Evolang XVII in Nijmegen, Netherlands
+    url: /submissions
+  - text: Submission Instructions
+    url: /submissions
+  - text: Code of Conduct
+    url: /code_of_conduct
+
+secondary_links:
+  - text: Plovdiv 2026
+    title: Evolang 16
+    url: https://sites.google.com/york.ac.uk/evolang2026/home
+  - text: Madison 2024
+    title: Evolang 15
+    url: https://evolang2024.github.io/
+  - text: Kanazawa 2022
+    title: Joint Conference on Language Evolution
+    url: https://sites.google.com/view/joint-conf-language-evolution
+  - text: Brussels 2020
+    title: Evolang 13
+    url: https://web.archive.org/web/20220302152940/https://brussels.evolang.org/
+  - text: Toruń 2018
+    title: Evolang 12
+    url: https://web.archive.org/web/20220526024221/https://evolang.cles.umk.pl/
+  - text: New Orleans 2016
+    title: Evolang 11
+    url: https://web.archive.org/web/20170626181128/http://evolang.org/neworleans/
+  - text: Vienna 2014
+    title: Evolang 10
+    url: https://web.archive.org/web/20260216020817/https://evolangx.univie.ac.at/
+  - text: Kyoto 2012
+    title: Evolang 9
+    url: https://web.archive.org/web/20140722232801/http://kyoto.evolang.org/
+  - text: Utrecht 2010
+    title: Evolang 8
+    url: https://web.archive.org/web/20160216155310/http://www.illc.uva.nl/LaCo/evolang/
+  - text: Barcelona 2008
+    title: Evolang 7
+    url: https://web.archive.org/web/20150308085343/http://stel.ub.edu/evolang2008/
+  - text: Rome 2006
+    title: Evolang 6
+    url: https://web.archive.org/web/20061013211609/http://www.tech.plym.ac.uk/socce/evolang6/
+  - text: Leipzig 2004
+    title: Evolang 5
+    url: https://web.archive.org/web/20071109062126/http://www.ling.ed.ac.uk/evolang/2004/
+  - text: Harvard 2002
+    title: Evolang 4
+    url: https://web.archive.org/web/20150616080957/http://www.lel.ed.ac.uk/evolang/2002/
+  - text: Paris 2000
+    title: Evolang 3
+    url: https://web.archive.org/web/20060825032530/http://www.infres.enst.fr/confs/evolang/
+  - text: London 1998
+    title: Evolang 2
+    url: https://web.archive.org/web/20060823235120/http://www.infres.enst.fr/confs/evolang/Londonbook.html
+  - text: Edinburgh 1996
+    title: Evolang 1
+    url: https://web.archive.org/web/20060819051028/http://www.infres.enst.fr/confs/evolang/edinbook.html
+
+upcoming:
+  text: Nijmegen 2028
+  title: Evolang 17
+  url: 
+
+sidebar_extra:
+  - title: Mailing List
+    md: You can subscribe to the Evolang email list by clicking [here](http://evolang.us16.list-manage.com/subscribe?u=3c02037f31127170cc4814a4e&id=ddb5e241fe).
+
+baseurl: /
+permalink: /:title
+
+plugins:
+  - jekyll-redirect-from
+
+exclude:
+  - README.md
