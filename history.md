@@ -47,4 +47,4 @@ The Evolution of Language conferences (a.k.a. Evolang) is a series of biennial c
 
 **Evolang 15, 2024:** Was hosted in Madison, Wisconsin, USA with Gary Lupyan as the primary local ogranizer. Details are available at: <https://evolang2024.github.io/>.
 
-**Evolang 15, 2026:** Was hosted in Plovdiv, Bulgaria, with Dimitar Kazakov as the primary local ogranizer. Details are available at: <https://sites.google.com/york.ac.uk/evolang2026/home/>
+**Evolang 16, 2026:** Was hosted in Plovdiv, Bulgaria, with Dimitar Kazakov as the primary local ogranizer. Details are available at: <https://sites.google.com/york.ac.uk/evolang2026/home/>
